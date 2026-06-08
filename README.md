@@ -40,7 +40,7 @@ claude-plugins-public/
 
 ## License
 
-[MIT](LICENSE) © Altivum Inc.
+[Apache-2.0](LICENSE) © Altivum Inc.
 
 ---
 
